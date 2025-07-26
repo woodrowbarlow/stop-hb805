@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How HB-805 Got Ruined
+title:  How HB 805 Got Ruined
 author: Woodrow Barlow
 ---
 
