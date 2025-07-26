@@ -1,8 +1,7 @@
-# HB 805 Trigger Provision Ends Gender-affirming Care Coverage for 750,000 NC State Health Plan Members
-
-## By Dr. Luka Thornton, July 23 2025
-
-Updated July 25 2025
+---
+title:  "HB 805 Trigger Provision Ends Gender-affirming Care Coverage for 750,000 NC State Health Plan Members"
+author: "Dr. Luka Thornton"
+---
 
 If passed, North Carolina **[HB 805](https://www.ncleg.gov/BillLookup/2025/H805) will strip gender-affirming care coverage for the [750,000 North Carolinians on the State Health Plan](https://www.nctreasurer.gov/news/press-releases/2025/05/20/state-health-plan-board-trustees-voted-2026-plan-changes-members)**. The bill has many other harmful implications. Here’s why no one (including AI) has recognized this one.
 
@@ -23,21 +22,3 @@ HB 805’s bait and switch language is contrary to the “transparency” Treasu
 [1] ​​From HB 805 Section 3(a): “No State funds may be used, directly or indirectly, for the performance of or in furtherance of surgical gender transition procedures, or to provide puberty-blocking drugs or cross-sex hormones to any prisoner… or to support the administration of any governmental health plan or government-offered insurance policy offering surgical gender transition procedures, puberty-blocking drugs, or cross-sex hormones…” The inclusion of “to any prisoner” gives pause, but correspondence with a SHP Board Member suggests the Board anticipates the exclusion of gender-affirming care for all SHP members should HB 805 pass.
 
 [2] These sources purport that providing coverage for gender-affirming care does not cost more money for large insurance plans: [Atangan. 2023. American Journal of Law and Medicine](https://pubmed.ncbi.nlm.nih.gov/37376911/), [Padula et al. 2015. Journal of General Internal Medicine](​​https://pubmed.ncbi.nlm.nih.gov/26481647/), [Human Rights Campaign Foundation](https://www.thehrcfoundation.org/professional-resources/are-transgender-inclusive-health-insurance-benefits-expensive)
-
----
-
-# An Open Letter to Representative Pittman
-
-## By Woodrow Barlow, July 23 2025
-
-You voted as the only Democrat in favor of the HB-805 bill on June 25. Governor Stein vetoed it July 3 and it will soon be up for a vote again, possibly as soon as tomorrow.
-
-This bill would strip insurance coverage for gender-affirming healthcare for all members of the state employee health plan (because the trigger condition in § 143C-6-5.6 Section 3(b) has already been met). There are approximately 750,000 North Carolinians on the state health plan. If governor Stein’s veto is overturned, these changes will take effect July 30.
-
-The aim of § 143C-6-5.6 is purportedly to eliminate government spending “directly and indirectly” for gender-affirming healthcare, but does not include any language pertaining to the cost and contract negotiation between the state and the insurance company; therefore, the clause denying insurance coverage provides no actual promise of saving North Carolina any money. The most likely outcome is that the insurance company will save money.
-
-The fact that this bill is concerned with “indirect” spending is transparently evil. This makes it clear that **the goal is not to reduce government spending, but to make North Carolina a hostile place for transgender people**. This clause overrules the opinions of medical professionals, causes significant harm to all transgender employees of North Carolina, and does not appear to have any benefit on North Carolina’s government, budget, or citizens; it serves only to oppress a specific group of people.
-
-Many of your Republican colleagues have made it clear time and time again that they literally do not value the life of a transgender person, and that their goal is persecution. I am optimistic that you do not share this view, and that you were instead voting in favor of some of the other provisions in the bill which would provide reasonable protections for women and children.
-
-The bill as it is written right now will cause very real financial and medical problems for innocent people. For no reason at all. The Republicans are one vote shy of a supermajority in the House, and I am urging you to use your vote to stand up with your Democratic colleagues against pointless persecution. Please vote against HB-805. Let the veto stand.
