@@ -10,7 +10,7 @@ HB-805, which is titled the "Prevent Sexual Exploitation of Women and Minors Act
 The original draft focused on:
 
 * Requiring pornography publishers to keep extensive records showing age and consent for all their performers.
-* Require pornography website operators to promptly facilitate deletion requests from people appearing in content that has been posted without their consent.
+* Requiring pornography website operators to promptly facilitate deletion requests from people appearing in content that has been posted without their consent.
 * The enforcement and penalties resulting from failure to comply.
 
 It was a pretty reasonable bill and it drew bi-partisan support. The House sent the bill to committee, where it underwent some [minor (harmless) improvements](https://webservices.ncleg.gov/ViewBillDocument/2025/5530/0/H805-PCS10500-CV-24), and then the house passed the bill.
