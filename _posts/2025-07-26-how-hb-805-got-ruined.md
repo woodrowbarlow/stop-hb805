@@ -22,7 +22,7 @@ Once the Senate Rules Committee was done, the [updated draft](https://webservice
 * Imposing a trans-exclusive and biologically flawed legal definition of "male" and "female".
 * Extending the statute of limitations for medical malpractice lawsuits specifically related to gender-affirming healthcare, which is clearly designed to increase the risk for medical professionals to offer these services in North Carolina.
 * Allowing parents to ban their children from reading arbitrary books, requiring schools to create systems to facilitate these bans, and requiring school librarians and teachers to enforce these bans on an individualized basis.
-* Requiring that, if any aspect of a North Carolina birth certificate must be updated, the updated copy will be attached to the original copy and both will be stored and distributed and a single multi-page document in perpetuity.
+* Requiring that, if any aspect of a North Carolina birth certificate must be updated, the updated copy will be attached to the original copy and both will be stored and distributed as a single multi-page document in perpetuity.
 
 TODO: WHO IS RESPONSIBLE?!
 
