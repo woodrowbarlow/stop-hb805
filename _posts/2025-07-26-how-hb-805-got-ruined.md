@@ -27,6 +27,6 @@ Once the Senate Rules Committee was done, the [updated draft](https://webservice
 
 According to the [bill history](https://www.ncleg.gov/BillLookup/2025/H805), this occurred between May 27 and June 18. Unfortunately, the [committee documents](https://www.ncleg.gov/Committees/CommitteeInfo/SenateStanding/148/Documents/) for this period do not show any activity on HB 805, so I can't see who inserted these changes.
 
-Somehow, this still wasn't enough, because [Senate Rep. Buck Newton](https://www.ncleg.gov/Members/Biography/s/443) tacked a [few](https://webservices.ncleg.gov/ViewBillDocument/2025/6881/0/H805-A-NBC-16671) [more](https://webservices.ncleg.gov/ViewBillDocument/2025/6878/0/H805-A-NBC-16670) [lousy](https://webservices.ncleg.gov/ViewBillDocument/2025/6876/0/H805-A-NBC-16669) amendments on top.
+Somehow, this still wasn't enough, because [Senate Rep. Buck Newton](https://www.ncleg.gov/Members/Biography/s/443) tacked a [few](https://webservices.ncleg.gov/ViewBillDocument/2025/6881/0/H805-A-NBC-16671) [more](https://webservices.ncleg.gov/ViewBillDocument/2025/6878/0/H805-A-NBC-16670) [terrible](https://webservices.ncleg.gov/ViewBillDocument/2025/6876/0/H805-A-NBC-16669) amendments on top.
 
 The [final ratified bill](https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v5.pdf) includes all of the Senate's trash, left un-changed when it came back to the House. The bill crossed Governor Stein's desk July 3, at which point he vetoed it. On July 29, the House and Senate will be voting on whether or not to overturn the veto.
