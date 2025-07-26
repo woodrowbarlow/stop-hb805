@@ -3,6 +3,10 @@ title:  An Open Letter to Representative Pittman
 author: Woodrow Barlow
 ---
 
+# {{ page.title }}
+
+## By {{ page.author }}, {{ post.date | date_to_long_string }}
+
 You voted as the only Democrat in favor of the HB-805 bill on June 25. Governor Stein vetoed it July 3 and it will soon be up for a vote again, possibly as soon as tomorrow.
 
 This bill would strip insurance coverage for gender-affirming healthcare for all members of the state employee health plan (because the trigger condition in § 143C-6-5.6 Section 3(b) has already been met). There are approximately 750,000 North Carolinians on the state health plan. If governor Stein’s veto is overturned, these changes will take effect July 30.
