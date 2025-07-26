@@ -1,6 +1,7 @@
 ---
-title:  "An Open Letter to Representative Pittman"
-author: "Woodrow Barlow"
+layout: post
+title:  An Open Letter to Representative Pittman
+author: Woodrow Barlow
 ---
 
 You voted as the only Democrat in favor of the HB-805 bill on June 25. Governor Stein vetoed it July 3 and it will soon be up for a vote again, possibly as soon as tomorrow.
