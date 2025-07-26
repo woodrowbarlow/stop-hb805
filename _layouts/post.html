@@ -3,6 +3,6 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-<h3>by {{ page.author | default: site.author }}, {{ page.date | date: "%-d %B %Y" }}</h3>
+<h3>by {{ page.author | default: site.author }} on {{ page.date | date: "%B %-d %Y" }}</h3>
 
 {{content}}

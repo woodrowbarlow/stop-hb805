@@ -18,7 +18,7 @@ The following essays are from local North Carolina residents.
 
 ## [{{ post.title }}]({{ post.url }})
 
-### by {{ post.author | default: site.author }}, {{ post.date | date: "%-d %B %Y" }}
+### by {{ page.author | default: site.author }} on {{ page.date | date: "%B %-d %Y" }}
 
 {% endunless %}
 {{ post.content }}
@@ -33,7 +33,7 @@ The following essays are from local North Carolina residents.
 
 ## [{{ post.title }}]({{ post.url }})
 
-### by {{ post.author | default: site.author }}, {{ post.date | date: "%-d %B %Y" }}
+### by {{ page.author | default: site.author }} on {{ page.date | date: "%B %-d %Y" }}
 
 {{ post.content }}
 
