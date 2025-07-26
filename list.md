@@ -8,9 +8,9 @@ North Carolina [House Bill 805](https://www.ncleg.gov/BillLookup/2025/H805) is a
 
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<small>{{ post.date | date: "%-d %B %Y" }}</small>
 <h2><a href="{{ post.url}}">{{ post.title }}</a></h2>
-<p class="view">by {{ page.author | default: site.author }}</p>
+<p class="view">by {{ post.author | default: site.author }}</p>
 
 {{ post.content }}
 
