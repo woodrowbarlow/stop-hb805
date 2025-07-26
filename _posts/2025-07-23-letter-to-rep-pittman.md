@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  An Open Letter to Representative Pittman
 author: Woodrow Barlow
 ---
