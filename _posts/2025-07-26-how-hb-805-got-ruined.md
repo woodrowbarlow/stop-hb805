@@ -5,7 +5,7 @@ author: Woodrow Barlow
 tags: [wip]
 ---
 
-HB-805, which is titled the "Prevent Sexual Exploitation of Women and Minors Act", didn't start as an anti-trans bill. The [original draft](https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v0.pdf) was authored by [House Rep. Jackson](https://www.ncleg.gov/Members/Biography/H/804) in a [sub-committee focused on preventing human trafficking](TODO ADD LINK).
+HB-805, which is titled the "Prevent Sexual Exploitation of Women and Minors Act", didn't start as an anti-trans bill. The [original draft](https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v0.pdf) was authored by [House Rep. Jackson](https://www.ncleg.gov/Members/Biography/H/804) in a sub-committee focused on preventing human trafficking (TODO ADD LINK).
 
 The original draft focused on:
 
