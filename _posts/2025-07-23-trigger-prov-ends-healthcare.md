@@ -3,10 +3,6 @@ title:  HB 805 Trigger Provision Ends Gender-affirming Care Coverage for 750,000
 author: Dr. Luka Thornton
 ---
 
-## [{{ page.title }}]({{ post.url }})
-
-### By {{ page.author }}, {{ post.date | date_to_long_string }}
-
 If passed, North Carolina **[HB 805](https://www.ncleg.gov/BillLookup/2025/H805) will strip gender-affirming care coverage for the [750,000 North Carolinians on the State Health Plan](https://www.nctreasurer.gov/news/press-releases/2025/05/20/state-health-plan-board-trustees-voted-2026-plan-changes-members)**. The bill has many other harmful implications. Here’s why no one (including AI) has recognized this one.
 
 Section 3(a) of the bill outlines who will no longer qualify for State-funded gender-affirming health care. General Statute 143C-6-5.6(b) specifies minors, (b1) specifies incarcerated persons, and (c) states, “Subsections (b) and (b1) of this section shall not apply to the State Health Plan for Teachers and State Employees.”
