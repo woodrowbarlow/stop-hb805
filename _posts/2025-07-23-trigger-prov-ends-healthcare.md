@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  HB 805 Trigger Provision Ends Gender-affirming Care Coverage for 750,000 NC State Health Plan Members
 author: Dr. Luka Thornton
 ---
