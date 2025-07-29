@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Update: Results from Legislative Review
+title:  Results from Legislative Review
 author: Dr. Luka Thornton
 tags: [pinned, wip]
 ---
