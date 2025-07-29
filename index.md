@@ -20,9 +20,9 @@ The following essays are from local North Carolina residents.
 
 ### by {{ post.author | default: site.author }} on {{ post.date | date: "%B %-d %Y" }}
 
-{% endunless %}
 {{ post.content }}
 
+{% endunless %}
 {% endfor %}
 
 {% for post in site.posts %}
