@@ -11,7 +11,8 @@ For more information, please see:
 
 The following essays are from local North Carolina residents.
 
-{% for post in site.tags.pinned %}
+{% for post in site.posts %}
+{% if post.tags contains 'pinned' %}
 {% unless post.tags contains 'wip' %}
 
 ---
@@ -23,6 +24,7 @@ The following essays are from local North Carolina residents.
 {{ post.content }}
 
 {% endunless %}
+{% endif %}
 {% endfor %}
 
 {% for post in site.posts %}
