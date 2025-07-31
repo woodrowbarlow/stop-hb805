@@ -2,6 +2,7 @@
 layout: post
 title:  Eight Vetos Overturned in One Day. Humiliating.
 author: Woodrow Barlow
+tags: [pinned]
 ---
 
 In the last election, Democrats managed to prevent the Republicans from securing a super-majority by a *single* seat in the house. So, as long as the party presents a unified front and stands behind their Governor, they can prevent vetos from being overturned.
