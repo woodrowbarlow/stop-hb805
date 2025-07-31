@@ -7,7 +7,7 @@ tags: [pinned]
 
 In the last election, Democrats managed to prevent the Republicans from securing a super-majority by a *single* seat in the house. So, as long as the party presents a unified front and stands behind their Governor, they can prevent vetos from being overturned.
 
-Yesterday the current chamber made their first attempt at overturning vetos. They put eight bills on the table, and managed to overturn every. single. one.
+Yesterday the current chamber made their first attempt at overturning vetos. They put eight vetoed bills on the table, and managed to overturn every single one.
 
 What a travesty.
 
@@ -30,4 +30,4 @@ Here is my attempt to summarize each bill that was made law yesterday. I'm focus
 * [HB 318](https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H318v6.pdf) (passed with *only* Rep. Cunningham's support): Requires local law enforcement to assist and support ICE's enforcement efforts.
 * [HB 805](https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v6.pdf) (passed with *only* Rep. Majeed's support): Designed to hurt and oppress trans and non-binary people [in several ways](https://www.acluofnorthcarolina.org/en/legislation/hb-805-anti-transschool-censorship-bill).
 
-I'm not somebody who believes that a politician should always vote down party lines -- far from it -- but turning your back on your party during a veto vote in the current environment should be *unthinkable*. It shows that the republicans are in full and absolute unchecked control of the government. It's a blank check to run free. You've rendered your entire party ineffective because you each disagree on one single issue. Show a little solidarity when it matters most. Shame on the four of you.
+I'm not somebody who believes that a politician should always vote down party lines -- far from it -- but turning your back on your party during a veto vote in the current environment should be *unthinkable*. It shows that the Republicans are in full and absolute unchecked control of the government. It's a blank check to run free. You've rendered your entire party ineffective because you each disagree on one single issue. Show a little solidarity when it matters most. Shame on the four of you.
