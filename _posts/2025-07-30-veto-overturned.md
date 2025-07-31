@@ -19,7 +19,7 @@ What a travesty.
 
 [Rep. Brockman](https://www.ncleg.gov/Members/Biography/H/691) (Guilford) piled on too. Brockman voted in favor of [SB 416](https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/H/588) and [SB 254](https://www.ncleg.gov/Legislation/Votes/RollCallVoteTranscript/2025/H/590).
 
-Here is my attempt to summarize each bill that was overturned yesterday. I'm focused on being concise, and some nuance may get lost. Please take each with a grain of salt, and click through to read more.
+Here is my attempt to summarize each bill that was made law yesterday. I'm focused on being concise, and some nuance may get lost. Please take each with a grain of salt, and click through to read more.
 
 * [SB 266](https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S266v7.pdf): Allows duke energy to raise rates if they incur unexpected costs while upgrading the grid.
 * [SB 416](https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S416v6.pdf): Prohibits public agencies from collecting or distributing information about individuals' nonprofit donations, including political contributions.
